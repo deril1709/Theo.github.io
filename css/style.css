@@ -55,3 +55,9 @@ footer {
 .card{
   width: auto;
 }
+.gallery-img{
+  width: 100%;
+}
+#Gallery .row > * {
+  padding: 0;
+}
